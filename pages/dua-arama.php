@@ -9,7 +9,7 @@
     }
  ?>
     <div class="container top-margin-before-slider">
-        <?php include ("../left-sidebar.php");?>
+        <?php include ("../left-dua-sidebar.php");?>
         <div class="col-md-9 background-color-white">
             <div class="theme-background-color margin20-top <?=$padding_class?>">
                 <span class="icon-uniE6F7 sidebar-moon-icon-size middle-content-padding white-color-link"></span>

@@ -7,20 +7,22 @@
         $padding_class  = "padding-10px";
         $icon_moon_span = "align-to-moon-icon";
     }
- ?>
-    <div class="container top-margin-before-slider">
-        <?php include ("../left-sidebar.php");?>
+ ?><br/>
+ <div class="container">
+    <div class="row dua-section-wrapper">
+        <div class="col-md-12" style="background-color:white">
+            <h2 class="bold">RÜYA YORUMLARI</h2>
+            Bu sayfadan tüm rüya yorumlarına ulaşabilirsiniz.<br/><br/>
+        </div>
+    </div>
+ </div>
+    <div class="container top-margin-after-slider">
+        <?php include ("../left-ruya-sidebar.php");?>
         <div class="col-md-9 background-color-white">
             <div class="theme-background-color margin20-top <?=$padding_class?>">
-                <span class="icon-uniE6F7 sidebar-moon-icon-size middle-content-padding white-color-link"></span>
-                <span class="<?=$icon_moon_span?> white-color-link">ARAMA SONUÇLARI</span>
+                <span class="icon-uniE7D2 sidebar-moon-icon-size middle-content-padding white-color-link"></span>
+                <span class="<?=$icon_moon_span?> white-color-link">RÜYA YORUMLARI</span>
             </div><br/>
-            <div class="row">
-                <div class="col-md-12">
-                    <strong>"Aşk Büyüsü"</strong> ile ilgili 2 sonuç bulundu.
-                </div>
-            </div>
-            <hr>
             <div class="row">&nbsp;</div>
             <div class="row">
                 <div class="col-md-4">
