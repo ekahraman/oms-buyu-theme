@@ -403,6 +403,9 @@ Image credits: unsplash.com
   background-color: #0A1325;
   padding:10px;
 }
+.footer-bot-wrapper {
+    background-color: #0A1325;
+}
 .comment-section-wrapper {
     background-color: #273A58 !important;
     padding: 20px !important;
@@ -678,6 +681,10 @@ table > tbody > tr > td {
 }
 .aling-to-logo-first-div {
   margin-top:-45px;
+  margin-left:55px;
+}
+.aling-to-logo-first-div2 {
+  margin-top:-68px;
   margin-left:55px;
 }
 .aling-to-logo-second-div {
@@ -979,6 +986,11 @@ a {
 .block-text:hover {
     background-color: #fff;
 }
+.block-text:hover + #triangle-down {
+    border-left: 7px solid transparent;
+    border-right: 7px solid transparent;
+    border-top: 14px solid #fff;
+}
 
 .block-text a {
  color: #7d4702;
@@ -1195,6 +1207,40 @@ div.scroll {
 }
 .align-input {
     min-width: 145% !important;
+}
+.margin-left30 {
+    margin-left: 30px;
+}
+.width100 {
+    width: 100%;
+}
+.gallery-nav {
+    background-color: gray;
+    padding: 1px;
+}
+.gallery-nav:hover {
+    background-color: #273A58;
+    color: white;
+}
+.comment-nav {
+    background-color: #132540;
+    padding: 1px;
+}
+.comment-nav:hover {
+    background-color: white;
+    color: black;
+}
+.active-link {
+    color: cornflowerblue;
+    background-color: white;
+}
+#triangle-down {
+	width: 0;
+	height: 0;
+	border-left: 7px solid transparent;
+	border-right:7px solid transparent;
+	border-top: 14px solid #172b4b;
+    margin-left: 200px;
 }
 input[type="text"], textarea {
 outline: none;

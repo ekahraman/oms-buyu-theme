@@ -5,7 +5,7 @@
         <hr class="margin-top-15px margin-bottom-30px"/>
         <div class="row">
             <div class="col-md-6 middle-content-seperator">
-                <img class="img-responsive display-block" src="images/4.jpg"/>
+                <img class="img-responsive display-block width100" src="images/4.jpg"/>
                 <div class="post-header">
                     <div class="fixed-height">
                         <a href="#">Ayırma Büyüsü Denenmiş Ayırma Duası</a>
@@ -17,7 +17,7 @@
             </div>
             <br/><br/>
             <div class="col-md-6 middle-content-seperator">
-                <img class="img-responsive display-block" src="images/4.jpg"/>
+                <img class="img-responsive display-block width100" src="images/4.jpg"/>
                 <div class="post-header">
                     <div class="fixed-height">
                         <a href="#">Evlenme Büyüsü Nasıl Yapılır?</a>
@@ -69,7 +69,7 @@
     <hr class="margin-top-15px margin-bottom-30px"/>
     <div class="row">
         <div class="col-md-4 middle-content-seperator">
-            <img class="img-responsive display-block" src="images/4.jpg"/>
+            <img class="img-responsive display-block width100" src="images/4.jpg"/>
             <div class="post-header">
                 <div class="fixed-height">
                     <a href="#">Ayırma Büyüsü Denenmiş Ayırma Duası</a>
@@ -80,7 +80,7 @@
             </div>
         </div>
         <div class="col-md-4 middle-content-seperator">
-            <img class="img-responsive display-block" src="images/4.jpg"/>
+            <img class="img-responsive display-block width100" src="images/4.jpg"/>
             <div class="post-header">
                 <div class="fixed-height">
                     <a href="#">Evlenme Büyüsü Nasıl Yapılır?</a>
@@ -91,7 +91,7 @@
             </div>
         </div>
         <div class="col-md-4">
-            <img class="img-responsive display-block" src="images/4.jpg"/>
+            <img class="img-responsive display-block width100" src="images/4.jpg"/>
             <div class="post-header">
                 <div class="fixed-height">
                     <a href="#">Papaz Büyüsü ile Aşık Etme, Papaz Büyüsü Nasıl Yapılır?</a>
@@ -107,7 +107,7 @@
 
     <div class="row">
         <div class="col-md-4 middle-content-seperator">
-            <img class="img-responsive display-block" src="images/4.jpg"/>
+            <img class="img-responsive display-block width100" src="images/4.jpg"/>
             <div class="post-header">
                 <div class="fixed-height">
                     <a href="#">Ayırma Büyüsü Denenmiş Ayırma Duası</a>
@@ -118,7 +118,7 @@
             </div>
         </div>
         <div class="col-md-4 middle-content-seperator">
-            <img class="img-responsive display-block" src="images/4.jpg"/>
+            <img class="img-responsive display-block width100" src="images/4.jpg"/>
             <div class="post-header">
                 <div class="fixed-height">
                     <a href="#">Evlenme Büyüsü Nasıl Yapılır?</a>
@@ -129,7 +129,7 @@
             </div>
         </div>
         <div class="col-md-4">
-            <img class="img-responsive display-block" src="images/4.jpg"/>
+            <img class="img-responsive display-block width100" src="images/4.jpg"/>
             <div class="post-header">
                 <div class="fixed-height">
                     <a href="#">Papaz Büyüsü ile Aşık Etme, Papaz Büyüsü Nasıl Yapılır?</a>

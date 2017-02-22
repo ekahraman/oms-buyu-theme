@@ -32,6 +32,10 @@ $mobile = false;
         <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
         <![endif]-->
         <script src="https://use.fontawesome.com/cea95c826d.js"></script>
+        <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <!-- Include all compiled plugins (below), or include individual files as needed -->
+        <script src="dist/js/bootstrap.min.js"></script>
     </head>
     <body>
         <?php if ($mobile) { ?>
@@ -46,6 +50,17 @@ $mobile = false;
                         <span class="icon-bar"></span>
                     </button>
                     <a class="white-color-link above-menu-heading-header" href="#">Süleyman Hoca</a>
+                    <span id="show-search" class="icon-uniE6F7 sidebar-moon-icon-size middle-content-padding white-color-link margin-left30"></span>
+                    <div id="search-input" style="display: none">
+                        <div class="input-group">
+                            <input type="text" class="form-control" placeholder="Site içi arama...">
+                            <span class="input-group-btn white-bg">
+                                <button class="btn btn-theme btn-lg" type="button">
+                                    <i class="glyphicon glyphicon-search"></i>
+                                </button>
+                            </span>
+                        </div>
+                    </div>
                 </div>
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <ul class="nav navbar-nav">
@@ -58,16 +73,6 @@ $mobile = false;
                         <li><a class="white-color-link" href="#contact">HOCA HAKKINDA</a></li>
                         <li><a class="white-color-link" href="#contact">HOCA İLETİŞİM</a></li>
                     </ul>
-                    <div class="col-sm-3 col-md-3 pull-right">
-                        <form class="navbar-form" role="search">
-                            <div class="input-group">
-                                <input type="text" class="form-control" placeholder="Search" name="q">
-                                <div class="input-group-btn">
-                                    <button class="btn btn-default" type="submit"><i class="glyphicon glyphicon-search"></i></button>
-                                </div>
-                            </div>
-                        </form>
-                    </div>
                 </div>
             </div>
         </nav>
@@ -248,7 +253,7 @@ $mobile = false;
                 </div>
             </div>
             <nav class="navbar navbar-buyu">
-           <div class="container">
+           <div class="container-fluid">
                <div class="navbar-header">
                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
                    <span class="sr-only">Toggle navigation</span>
@@ -259,7 +264,7 @@ $mobile = false;
                </div>
                <div id="navbar" class="navbar-collapse collapse">
                    <ul class="nav navbar-nav">
-                       <li class="active"><a href="#">ANASAYFA</a></li>
+                       <li class="active"><a class="active-link" href="#">ANASAYFA</a></li>
                        <li><a class="white-color-link" href="#about">AŞK BÜYÜLERİ</a></li>
                        <li><a class="white-color-link" href="#contact">AŞK BÜYÜSÜ</a></li>
                        <li><a class="white-color-link" href="#contact">BAĞLANMA BÜYÜLERİ</a></li>

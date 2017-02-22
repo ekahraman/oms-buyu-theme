@@ -74,10 +74,10 @@
                         </div>
                     </div>
                     <a class="right carousel-control" href="#carousel-gallery" role="button" data-slide="prev">
-                        <span class="icon-uniE7CF" style="margin-left:-50px;"></span>
+                        <span class="icon-uniE7CF gallery-nav" style="margin-left:-90px;"></span>
                     </a>
                     <a class="right carousel-control" href="#carousel-gallery" role="button" data-slide="next">
-                        <span class="icon-uniE7CD"></span>
+                        <span class="icon-uniE7CD gallery-nav" style="margin-left:-40px !important;"></span>
                     </a>
                 </div>
             </div>

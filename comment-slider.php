@@ -16,19 +16,19 @@
                             <div class="col-md-3 col-sm-6">
                                 <div class="block-text rel zmin">
                                     <p>Never before has there been a good film portrayal of ancient Greece's favourite myth...</p>
-                                    <ins class="ab zmin sprite sprite-i-triangle block"></ins>
+
                                 </div>
-                                <div class="person-text rel pull-right">
+                                <div id="triangle-down"></div><div class="person-text rel pull-right">
                                     <span class="helvetica bold smaller-font-size white-color-link">Anna Hero</a>
                                     <span class="helvetica bold smaller-font-size white-color-link">Glasgow Scotland 28</span>
                                 </div>
                             </div>
                             <div class="col-md-3 col-sm-6 hidden-xs">
                                 <div class="block-text rel zmin">
-                                    <p>The 2013 movie "The Purge" left a bad taste in all of our mouths as nothing more than a...</p>
-                                    <ins class="ab zmin sprite sprite-i-triangle block"></ins>
+                                    <p>The 2013 movie "The Purge" left a bad taste in all of our mouths as nothing ...</p>
+
                                 </div>
-                                <div class="person-text rel pull-right">
+                                <div id="triangle-down"></div><div class="person-text rel pull-right">
                                     <span class="helvetica bold smaller-font-size white-color-link">Ella Mentree</a>
                                     <span class="helvetica bold smaller-font-size white-color-link">United States 18</span>
                                 </div>
@@ -36,9 +36,9 @@
                             <div class="col-md-3 col-sm-6 hidden-sm hidden-xs">
                                 <div class="block-text rel zmin">
                                     <p>What a funny and entertaining film! I did not know what to expect, this is the fourth film... </p>
-                                    <ins class="ab zmin sprite sprite-i-triangle block"></ins>
+
                                 </div>
-                                <div class="person-text rel pull-right">
+                                <div id="triangle-down"></div><div class="person-text rel pull-right">
                                     <span class="helvetica bold smaller-font-size white-color-link">Rannynm Hamshir</a>
                                     <span class="helvetica bold smaller-font-size white-color-link">Indonesia 37</span>
                                 </div>
@@ -46,9 +46,9 @@
                             <div class="col-md-3 col-sm-6 hidden-sm hidden-xs">
                                 <div class="block-text rel zmin">
                                     <p>What a funny and entertaining film! I did not know what to expect, this is the fourth film... </p>
-                                    <ins class="ab zmin sprite sprite-i-triangle block"></ins>
+
                                 </div>
-                                <div class="person-text rel pull-right">
+                                <div id="triangle-down"></div><div class="person-text rel pull-right">
                                     <span class="helvetica bold smaller-font-size white-color-link">Rannynm Hussain</a>
                                     <span class="helvetica bold smaller-font-size white-color-link">Indonesia 40</span>
                                 </div>
@@ -58,19 +58,19 @@
                             <div class="col-md-3 col-sm-6">
                                 <div class="block-text rel zmin">
                                     <p>Never before has there been a good film portrayal of ancient Greece's favourite myth...</p>
-                                    <ins class="ab zmin sprite sprite-i-triangle block"></ins>
+
                                 </div>
-                                <div class="person-text rel pull-right">
+                                <div id="triangle-down"></div><div class="person-text rel pull-right">
                                     <span class="helvetica bold smaller-font-size white-color-link">Anna Hero</a>
                                     <span class="helvetica bold smaller-font-size white-color-link">Glasgow Scotland 22</span>
                                 </div>
                             </div>
                             <div class="col-md-3 col-sm-6 hidden-xs">
                                 <div class="block-text rel zmin">
-                                    <p>The 2013 movie "The Purge" left a bad taste in all of our mouths as nothing more than a...</p>
-                                    <ins class="ab zmin sprite sprite-i-triangle block"></ins>
+                                    <p>The 2013 movie "The Purge" left a bad taste in all of our mouths as nothing ...</p>
+
                                 </div>
-                                <div class="person-text rel pull-right">
+                                <div id="triangle-down"></div><div class="person-text rel pull-right">
                                     <span class="helvetica bold smaller-font-size white-color-link">Ella Mentree</a>
                                     <span class="helvetica bold smaller-font-size white-color-link">United States 31</span>
                                 </div>
@@ -78,9 +78,9 @@
                             <div class="col-md-3 col-sm-6 hidden-sm hidden-xs">
                                 <div class="block-text rel zmin">
                                     <p>What a funny and entertaining film! I did not know what to expect, this is the fourth film...</p>
-                                    <ins class="ab zmin sprite sprite-i-triangle block"></ins>
+
                                 </div>
-                                <div class="person-text rel pull-right">
+                                <div id="triangle-down"></div><div class="person-text rel pull-right">
                                     <span class="helvetica bold smaller-font-size white-color-link">Rannynm Doe</a>
                                     <span class="helvetica bold smaller-font-size white-color-link">Indonesia 35</span>
                                 </div>
@@ -88,9 +88,9 @@
                             <div class="col-md-3 col-sm-6 hidden-sm hidden-xs">
                                 <div class="block-text rel zmin">
                                     <p>What a funny and entertaining film! I did not know what to expect, this is the fourth film...</p>
-                                    <ins class="ab zmin sprite sprite-i-triangle block"></ins>
+
                                 </div>
-                                <div class="person-text rel pull-right">
+                                <div id="triangle-down"></div><div class="person-text rel pull-right">
                                     <span class="helvetica bold smaller-font-size white-color-link">Rannynm Pushaki</a>
                                     <span class="helvetica bold smaller-font-size white-color-link">Indonesia 29</span>
                                 </div>
@@ -98,10 +98,10 @@
                         </div>
                     </div>
                     <a class="right carousel-control" href="#carousel-reviews" role="button" data-slide="prev">
-                        <span class="icon-uniE7CF" style="margin-left:-50px;"></span>
+                        <span class="icon-uniE7CF comment-nav" style="margin-left:-90px;"></span>
                     </a>
                     <a class="right carousel-control" href="#carousel-reviews" role="button" data-slide="next">
-                        <span class="icon-uniE7CD"></span>
+                        <span class="icon-uniE7CD comment-nav" style="margin-left:-40px !important;"></span>
                     </a>
                 </div>
             </div>
@@ -125,19 +125,19 @@
                             <div class="col-md-3 col-sm-6">
                                 <div class="block-text rel zmin">
                                     <p>Never before has there been a good film portrayal of ancient Greece's favourite myth...</p>
-                                    <ins class="ab zmin sprite sprite-i-triangle block"></ins>
+
                                 </div>
-                                <div class="person-text rel pull-right">
+                                <div id="triangle-down"></div><div class="person-text rel pull-right">
                                     <span class="helvetica bold smaller-font-size white-color-link">Anna Hero</a>
                                     <span class="helvetica bold smaller-font-size white-color-link">Glasgow Scotland 28</span>
                                 </div>
                             </div>
                             <div class="col-md-3 col-sm-6 hidden-xs">
                                 <div class="block-text rel zmin">
-                                    <p>The 2013 movie "The Purge" left a bad taste in all of our mouths as nothing more than a...</p>
-                                    <ins class="ab zmin sprite sprite-i-triangle block"></ins>
+                                    <p>The 2013 movie "The Purge" left a bad taste in all of our mouths as nothing ...</p>
+
                                 </div>
-                                <div class="person-text rel pull-right">
+                                <div id="triangle-down"></div><div class="person-text rel pull-right">
                                     <span class="helvetica bold smaller-font-size white-color-link">Ella Mentree</a>
                                     <span class="helvetica bold smaller-font-size white-color-link">United States 18</span>
                                 </div>
@@ -145,9 +145,9 @@
                             <div class="col-md-3 col-sm-6 hidden-sm hidden-xs">
                                 <div class="block-text rel zmin">
                                     <p>What a funny and entertaining film! I did not know what to expect, this is the fourth film... </p>
-                                    <ins class="ab zmin sprite sprite-i-triangle block"></ins>
+
                                 </div>
-                                <div class="person-text rel pull-right">
+                                <div id="triangle-down"></div><div class="person-text rel pull-right">
                                     <span class="helvetica bold smaller-font-size white-color-link">Rannynm Hamshir</a>
                                     <span class="helvetica bold smaller-font-size white-color-link">Indonesia 37</span>
                                 </div>
@@ -155,9 +155,9 @@
                             <div class="col-md-3 col-sm-6 hidden-sm hidden-xs">
                                 <div class="block-text rel zmin">
                                     <p>What a funny and entertaining film! I did not know what to expect, this is the fourth film... </p>
-                                    <ins class="ab zmin sprite sprite-i-triangle block"></ins>
+
                                 </div>
-                                <div class="person-text rel pull-right">
+                                <div id="triangle-down"></div><div class="person-text rel pull-right">
                                     <span class="helvetica bold smaller-font-size white-color-link">Rannynm Hussain</a>
                                     <span class="helvetica bold smaller-font-size white-color-link">Indonesia 40</span>
                                 </div>
@@ -167,19 +167,18 @@
                             <div class="col-md-3 col-sm-6">
                                 <div class="block-text rel zmin">
                                     <p>Never before has there been a good film portrayal of ancient Greece's favourite myth...</p>
-                                    <ins class="ab zmin sprite sprite-i-triangle block"></ins>
                                 </div>
-                                <div class="person-text rel pull-right">
+                                <div id="triangle-down"></div><div class="person-text rel pull-right">
                                     <span class="helvetica bold smaller-font-size white-color-link">Anna Hero</a>
                                     <span class="helvetica bold smaller-font-size white-color-link">Glasgow Scotland 22</span>
                                 </div>
                             </div>
                             <div class="col-md-3 col-sm-6 hidden-xs">
                                 <div class="block-text rel zmin">
-                                    <p>The 2013 movie "The Purge" left a bad taste in all of our mouths as nothing more than a...</p>
-                                    <ins class="ab zmin sprite sprite-i-triangle block"></ins>
+                                    <p>The 2013 movie "The Purge" left a bad taste in all of our mouths as nothing ...</p>
+
                                 </div>
-                                <div class="person-text rel pull-right">
+                                <div id="triangle-down"></div><div class="person-text rel pull-right">
                                     <span class="helvetica bold smaller-font-size white-color-link">Ella Mentree</a>
                                     <span class="helvetica bold smaller-font-size white-color-link">United States 31</span>
                                 </div>
@@ -187,9 +186,9 @@
                             <div class="col-md-3 col-sm-6 hidden-sm hidden-xs">
                                 <div class="block-text rel zmin">
                                     <p>What a funny and entertaining film! I did not know what to expect, this is the fourth film...</p>
-                                    <ins class="ab zmin sprite sprite-i-triangle block"></ins>
+
                                 </div>
-                                <div class="person-text rel pull-right">
+                                <div id="triangle-down"></div><div class="person-text rel pull-right">
                                     <span class="helvetica bold smaller-font-size white-color-link">Rannynm Doe</a>
                                     <span class="helvetica bold smaller-font-size white-color-link">Indonesia 35</span>
                                 </div>
@@ -197,9 +196,9 @@
                             <div class="col-md-3 col-sm-6 hidden-sm hidden-xs">
                                 <div class="block-text rel zmin">
                                     <p>What a funny and entertaining film! I did not know what to expect, this is the fourth film...</p>
-                                    <ins class="ab zmin sprite sprite-i-triangle block"></ins>
+
                                 </div>
-                                <div class="person-text rel pull-right">
+                                <div id="triangle-down"></div><div class="person-text rel pull-right">
                                     <span class="helvetica bold smaller-font-size white-color-link">Rannynm Pushaki</a>
                                     <span class="helvetica bold smaller-font-size white-color-link">Indonesia 29</span>
                                 </div>
@@ -207,12 +206,13 @@
                         </div>
                     </div>
                     <a class="right carousel-control" href="#carousel-reviews" role="button" data-slide="prev">
-                        <span class="icon-uniE7CF" style="margin-left:-50px;"></span>
+                        <span class="icon-uniE7CF comment-nav" style="margin-left:-90px;"></span>
                     </a>
                     <a class="right carousel-control" href="#carousel-reviews" role="button" data-slide="next">
-                        <span class="icon-uniE7CD"></span>
+                        <span class="icon-uniE7CD comment-nav" style="margin-left:-40px !important;"></span>
                     </a>
                 </div>
+
             </div>
         </div>
     </div>

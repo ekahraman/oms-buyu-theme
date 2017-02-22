@@ -1,9 +1,7 @@
 <?php include("gallery-before-footer.php");?>
-
-
+<br/>
 <?php if ($mobile) {?>
-<div class="row">&nbsp;</div>
-<div class="container-fluid top-wrapper">
+<div class="container footer-bot-wrapper">
     <div class="row">
         <div class="col-md-5 footer-content-seperator ">
             <div class="big-box">
@@ -12,18 +10,20 @@
         </div>
         <div class="col-md-7">
             <div class="row">
-                <div class="col-md-6 ">
+                <div class="col-md-12">
                     <div class="mini-box">
                         <span class="icon-uniE6CD big-font dark-white-font"></span>
-                        <div class="dark-white-font font-13px aling-to-logo-first-div">HER DERDE DEVA HEMEN ARAYIN!</div>
+                        <div class="dark-white-font font-13px aling-to-logo-first-div2">HER DERDE DEVA HEMEN ARAYIN!</div>
                         <div class="bold lightgray-font-color aling-to-logo-second-div">0541 767 38 37</div>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-md-12">
-                        <hr class="margin-top-15px margin-bottom-15px width-90 footer-hr">
-                    </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <hr class="margin-top-15px margin-bottom-15px width-90 footer-hr">
                 </div>
+            </div>
+            <div class="row">
                 <div class="col-md-6 align-according-to-image">
                     <div class="mini-box">
                         <i class="fa fa-whatsapp fa-4x dark-white-font" aria-hidden="true"></i>
@@ -31,19 +31,23 @@
                         <div class="bold white-color-link top-align-table aling-to-logo-second-div">0541 767 38 37</div>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-md-12">
-                        <hr class="margin-top-15px margin-bottom-15px width-90 footer-hr">
-                    </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <hr class="margin-top-15px margin-bottom-15px width-90 footer-hr">
                 </div>
-                <div class="col-md-6">
+            </div>
+            <div class="row">
+                <div class="col-md-12">
                     <div class="mini-box">
                         <span class="icon-uniE90B big-font dark-white-font"></span>
-                        <div class="dark-white-font font-13px aling-to-logo-first-div">BİZE MAİL İLE DE ULAŞABİLİRSİNİZ</div>
+                        <div class="dark-white-font font-13px aling-to-logo-first-div2">BİZE MAİL İLE DE ULAŞABİLİRSİNİZ</div>
                         <div class="bold white-color-link aling-to-logo-second-div smaller-font">iletişim@medyumsuleymanhoca.com</div>
                     </div>
                 </div>
-                <br/>
+            </div>
+            <br/>
+            <div class="row">
                 <div class="col-md-6">
                     <div class="mini-box">
                         <span class="dark-white-font font-13px">SOSYAL AĞLAR</span>
@@ -133,3 +137,11 @@
     </div>
 
 <?php }?>
+
+<script type="text/javascript">
+$(document).ready(function() {
+       $('#show-search').click(function() {
+               $('#search-input').slideToggle("fast");
+       });
+   });
+</script>
