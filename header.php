@@ -49,7 +49,7 @@ $mobile = false;
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="white-color-link above-menu-heading-header" href="#">Süleyman Hoca</a>
+                    <a class="white-color-link above-menu-heading-header margin-left10" href="#">Süleyman Hoca</a>
                     <span id="show-search" class="icon-uniE6F7 sidebar-moon-icon-size middle-content-padding white-color-link margin-left30"></span>
                     <div id="search-input" style="display: none">
                         <div class="input-group">
@@ -236,19 +236,21 @@ $mobile = false;
             <!-- ==================================== ABOVE MENU ================================= -->
             <div class="container-fluid above-menu-wrapper">
                 <div class="container">
-                    <div class="col-md-4">
+                    <div class="col-md-5">
                         <div class="white-color-link above-menu-heading-header">Süleyman Hoca</div>
                         <small class="white-color-link">Tüm sorunlarınız için etkili çözümler burada!</small>
                     </div>
-                    <div class="col-md-4 align-according-to-image">
+                    <div class="col-md-3 align-according-to-image header-content-seperator">
                         <span class="icon-uniE6CD big-font dark-white-font"></span>
                         <div class="dark-white-font font-13px aling-to-logo-first-div">HER DERDE DEVA HEMEN ARAYIN!</div>
                         <div class="bold white-color-link aling-to-logo-second-div">0541 767 38 37</div>
                     </div>
                     <div class="col-md-4 align-according-to-image">
+                        <div class="pull-right">
                             <i class="fa fa-whatsapp fa-4x dark-white-font" aria-hidden="true"></i>
                             <div class="dark-white-font font-13px aling-to-logo-first-div">WHATSAPP İLE ANINDA BİZE ULAŞIN!</div>
                             <div class="bold white-color-link top-align-table aling-to-logo-second-div">0541 767 38 37</div>
+                        </div>
                     </div>
                 </div>
             </div>

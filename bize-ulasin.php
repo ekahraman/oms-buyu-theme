@@ -2,11 +2,13 @@
 
 <?php
     if ($mobile) {
-        $padding_class  = "padding-left-10";
-        $icon_moon_span = "align-to-moon-icon-mobile";
+        $padding_class      = "padding-left-10";
+        $icon_moon_span     = "align-to-moon-icon-mobile";
+        $comment_info_class = "aling-to-logo-first-div2";
     } else {
-        $padding_class  = "padding-10px";
-        $icon_moon_span = "align-to-moon-icon";
+        $padding_class      = "padding-10px";
+        $icon_moon_span     = "align-to-moon-icon";
+        $comment_info_class = "aling-to-logo-first-div";
     }
  ?>
 
@@ -27,13 +29,13 @@
                 <div class="form-group col-md-6">
                     <div class="input-group">
                         <div class="input-group-addon"><i class="fa fa-user fa-fw"></i></div>
-                        <input type="text" class="form-control align-input" id="exampleInputAmount" placeholder="Adı Soyadı" style="border-left:0 !important;">
+                        <input type="text" class="form-control align-input" id="" placeholder="Adı Soyadı" style="border-left:0 !important;">
                     </div>
                 </div>
                 <div class="form-group pull-right col-md-6">
                     <div class="input-group">
                         <div class="input-group-addon"><i class="fa fa-envelope-o fa-fw"></i></div>
-                        <input type="text" class="form-control align-input" id="exampleInputAmount" placeholder="E-Posta Adresi" style="border-left:0 !important;">
+                        <input type="text" class="form-control align-input" id="" placeholder="E-Posta Adresi" style="border-left:0 !important;">
                     </div>
                 </div>
                 <div class="row">&nbsp;</div>
@@ -50,7 +52,7 @@
                 <div class="col-md-12 align-according-to-image">
                     <div class="mini-box">
                         <span class="icon-uniE6CD big-font dark-white-font"></span>
-                        <div class="dark-white-font font-13px aling-to-logo-first-div">HER DERDE DEVA HEMEN ARAYIN!</div>
+                        <div class="dark-white-font font-13px <?=$comment_info_class?>">HER DERDE DEVA HEMEN ARAYIN!</div>
                         <div class="bold aling-to-logo-second-div">0541 767 38 37</div>
                     </div>
                 </div>
@@ -68,7 +70,7 @@
                 <div class="col-md-12 align-according-to-image">
                     <div class="mini-box">
                         <span class="icon-uniE90B big-font dark-white-font"></span>
-                        <div class="dark-white-font font-13px aling-to-logo-first-div">BİZE MAİL İLE DE ULAŞABİLİRSİNİZ</div>
+                        <div class="dark-white-font font-13px <?=$comment_info_class?>">BİZE MAİL İLE DE ULAŞABİLİRSİNİZ</div>
                         <div class="bold aling-to-logo-second-div smaller-font">iletişim@medyumsuleymanhoca.com</div>
                     </div>
                 </div>

@@ -28,7 +28,7 @@
 
                         Lorem ipsum dolor sit amet, consecttur adipiscing elit. Curabitur quis lacinia diam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam erat felis, rutrum in nulla sodales, sodales placerat leo. Nunc tristique, enim eu dictum aliquet, velit nisi gravida enim, et commodo leo nibh id nisi. Duis dignissim, tortor eget dictum facilisis, ligula dui tincidunt lacus, et tincidunt purus ex eget eros. Nam sed maximus eros. Vivamus sagittis risus vitae urna maximus, vitae porta ante volutpat. Phasellus orci nisl, maximus in ante a, mollis feugiat arcu. Proin ac justo sodales, euismod leo sed, iaculis metus.<br/><br/>
                         <div class="questions-answers-div">
-                            <div class="grey-bg padding-10px">
+                            <div class="grey-bg padding-fix-qa">
                                 <span class="icon-uniE914 sidebar-moon-icon-size middle-content-padding theme-font-color"></span>
                                 <span class="<?=$icon_moon_span?> theme-font-color">SORU & CEVAPLAR</span>
                             </div>
@@ -37,28 +37,28 @@
                                 <div class="question">
                                     <button class="btn btn-theme"> 72 Saatlik İşlemi Yaptırdım, Ne Yapmalıyım?</button>
                                 </div>
-                                <div class="answer lightgray-font-color margin-top-15px">
+                                <div class="answer lightblack-font-color margin-top-15px">
                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur quis lacinia diam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam erat felis, rutrum in nulla sodales, sodales placerat leo. Nunc tristique, enim eu dictum aliquet, velit nisi gravida enim, et commodo leo nibh id nisi.
                                 </div>
                                 <hr class="margin-top-15px margin-bottom-30px">
                                 <div class="question">
                                     <button class="btn btn-theme"> Bu İşlemi Süleyman Hoca mı Yapar?</button>
                                 </div>
-                                <div class="answer lightgray-font-color margin-top-30px">
+                                <div class="answer lightblack-font-color margin-top-30px">
                                     Curabitur vel sem turpis. Sed vitae tellus at libero finibus dapibus at in neque. Nulla ultrices leo eget libero posuere elementum. Nunc nisi enim, varius in nulla vitae, ultrices sodales ante. Ut aliquet ut leo vel bibendum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras auctor nibh quis purus efficitur scelerisque.
                                 </div>
                                 <hr class="margin-top-15px margin-bottom-30px">
                                 <div class="question">
                                     <button class="btn btn-theme"> 72 Saatlik İşlemi Yaptırdım, Ne Yapmalıyım?</button>
                                 </div>
-                                <div class="answer lightgray-font-color margin-top-15px">
+                                <div class="answer lightblack-font-color margin-top-15px">
                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur quis lacinia diam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam erat felis, rutrum in nulla sodales, sodales placerat leo. Nunc tristique, enim eu dictum aliquet, velit nisi gravida enim, et commodo leo nibh id nisi.
                                 </div>
                                 <hr class="margin-top-15px margin-bottom-30px">
                                 <div class="question">
                                     <button class="btn btn-theme"> Bu İşlemi Süleyman Hoca mı Yapar?</button>
                                 </div>
-                                <div class="answer lightgray-font-color margin-top-30px">
+                                <div class="answer lightblack-font-color margin-top-30px">
                                     Curabitur vel sem turpis. Sed vitae tellus at libero finibus dapibus at in neque. Nulla ultrices leo eget libero posuere elementum. Nunc nisi enim, varius in nulla vitae, ultrices sodales ante. Ut aliquet ut leo vel bibendum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras auctor nibh quis purus efficitur scelerisque.
                                 </div>
                                 <hr class="margin-top-15px margin-bottom-30px">
@@ -72,14 +72,7 @@
             </div>
         </div>
     </div>
-        <?php if ($mobile) { ?>
-
-        <?php } else { ?>
-            <div class="row">&nbsp;</div>
-            <br/><br/>
-        <?php }?>
-
-        <div class="row">
+        <div class="row mobile-close-top">
             <div class="col-md-3">&nbsp;</div>
 
             <!-- ====================================== Anahtar Kelimeler ========================= -->
@@ -122,7 +115,7 @@
                 						<div class="comment-head">
                 							<h6 class="comment-name by-author"><a href="http://creaticode.com/blog">Agustin Ortiz</a></h6>
                 						</div>
-                                        <div><small><span class="lightgray-font-color">22.12.2016 - 22:30</span></small></div>
+                                        <div><small><span class="lightblack-font-color">22.12.2016 - 22:30</span></small></div>
                 						<div class="comment-content">
                 							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit omnis animi et iure laudantium vitae, praesentium optio, sapiente distinctio illo?
                 						</div>
@@ -138,7 +131,7 @@
                 							<div class="comment-head">
                 								<h6 class="comment-name"><a href="http://creaticode.com/blog">Lorena Rojero</a></h6>
                                             </div>
-                                            <div><small><span class="lightgray-font-color">22.12.2016 - 22:30</span></small></div>
+                                            <div><small><span class="lightblack-font-color">22.12.2016 - 22:30</span></small></div>
                 							<div class="comment-content">
                 								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit omnis animi et iure laudantium vitae, praesentium optio, sapiente distinctio illo?
                 							</div>
@@ -152,7 +145,7 @@
                 							<div class="comment-head">
                 								<h6 class="comment-name by-author"><a href="http://creaticode.com/blog">Agustin Ortiz</a></h6>
                 								</div>
-                                                <div><small><span class="lightgray-font-color">22.12.2016 - 22:30</span></small></div>
+                                                <div><small><span class="lightblack-font-color">22.12.2016 - 22:30</span></small></div>
                 							<div class="comment-content">
                 								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit omnis animi et iure laudantium vitae, praesentium optio, sapiente distinctio illo?
                 							</div>
@@ -170,7 +163,7 @@
                 						<div class="comment-head">
                 							<h6 class="comment-name"><a href="http://creaticode.com/blog">Lorena Rojero</a></h6>
                                         </div>
-                                        <div><small><span class="lightgray-font-color">22.12.2016 - 22:30</span></small></div>
+                                        <div><small><span class="lightblack-font-color">22.12.2016 - 22:30</span></small></div>
                 						<div class="comment-content">
                 							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit omnis animi et iure laudantium vitae, praesentium optio, sapiente distinctio illo?
                 						</div>

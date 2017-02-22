@@ -24,7 +24,7 @@
             <div class="row">&nbsp;</div>
             <div class="row">
                 <div class="col-md-4">
-                    <img class="img-responsive display-block" src="http://localhost/oms-buyu/images/4.jpg"/>
+                    <img class="img-responsive display-block width100" src="http://localhost/oms-buyu/images/4.jpg"/>
                 </div>
                 <div class="col-md-8">
                     <a href="#" class="bold">Ayırma Büyüsü Denenmiş Ayırma Duası</a>
@@ -40,7 +40,7 @@
             <hr class="margin-top-30px margin-bottom-30px">
             <div class="row">
                 <div class="col-md-4">
-                    <img class="img-responsive display-block" src="http://localhost/oms-buyu/images/4.jpg"/>
+                    <img class="img-responsive display-block width100" src="http://localhost/oms-buyu/images/4.jpg"/>
                 </div>
                 <div class="col-md-8">
                     <a href="#" class="bold">Ayırma Büyüsü Denenmiş Ayırma Duası</a>
@@ -56,7 +56,7 @@
             <hr class="margin-top-30px margin-bottom-30px">
             <div class="row">
                 <div class="col-md-4">
-                    <img class="img-responsive display-block" src="http://localhost/oms-buyu/images/4.jpg"/>
+                    <img class="img-responsive display-block width100" src="http://localhost/oms-buyu/images/4.jpg"/>
                 </div>
                 <div class="col-md-8">
                     <a href="#" class="bold">Ayırma Büyüsü Denenmiş Ayırma Duası</a>
@@ -72,7 +72,7 @@
             <hr class="margin-top-30px margin-bottom-30px">
             <div class="row">
                 <div class="col-md-4">
-                    <img class="img-responsive display-block" src="http://localhost/oms-buyu/images/4.jpg"/>
+                    <img class="img-responsive display-block width100" src="http://localhost/oms-buyu/images/4.jpg"/>
                 </div>
                 <div class="col-md-8">
                     <a href="#" class="bold">Ayırma Büyüsü Denenmiş Ayırma Duası</a>
@@ -88,7 +88,7 @@
             <hr class="margin-top-30px margin-bottom-30px">
             <div class="row">
                 <div class="col-md-4">
-                    <img class="img-responsive display-block" src="http://localhost/oms-buyu/images/4.jpg"/>
+                    <img class="img-responsive display-block width100" src="http://localhost/oms-buyu/images/4.jpg"/>
                 </div>
                 <div class="col-md-8">
                     <a href="#" class="bold">Ayırma Büyüsü Denenmiş Ayırma Duası</a>
@@ -104,7 +104,7 @@
             <hr class="margin-top-30px margin-bottom-30px">
             <div class="row">
                 <div class="col-md-4">
-                    <img class="img-responsive display-block" src="http://localhost/oms-buyu/images/4.jpg"/>
+                    <img class="img-responsive display-block width100" src="http://localhost/oms-buyu/images/4.jpg"/>
                 </div>
                 <div class="col-md-8">
                     <a href="#" class="bold">Ayırma Büyüsü Denenmiş Ayırma Duası</a>

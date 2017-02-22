@@ -7,12 +7,22 @@
         $padding_class  = "padding-10px";
         $icon_moon_span = "align-to-moon-icon";
     }
- ?>
+ ?><br/>
+    <div class="container">
+        <div class="row dua-section-wrapper">
+            <div class="col-md-12" style="background-color:white">
+                <h2 class="bold">Rüyada Saç Görmek</h2>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur quis lacinia diam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+                Etiam erat felis, rutrum in nulla sodales, sodales placerat leo. Nunc tristique, enim eu dictum aliquet, velit nisi gravida enim, et commodo leo nibh id nisi. Duis dignissim, tortor eget dictum facilisis, ligula dui tincidunt lacus, et tincidunt purus ex eget eros. Nam sed maximus eros.
+                <br/><br/>
+            </div>
+        </div>
+    </div>
     <div class="container top-margin-before-slider">
         <?php include ("left-ruya-sidebar.php");?>
         <div class="col-md-9 middle-content-wrapper background-color-white"><!-- ====================================== Hocamızdan Yazılar ===================================== -->
             <span class="icon-uniE908 sidebar-moon-icon-size middle-content-padding"></span>
-            <span class="<?=$icon_moon_span?>">Rüyada Saç Görmek</span>
+            <span class="<?=$icon_moon_span?>">RÜYADA SAÇ GÖRMEK</span>
             <hr class="margin-top-15px margin-bottom-30px">
             <div class="row">
                 <div class="col-md-12">
@@ -27,14 +37,7 @@
             </div>
         </div>
     </div>
-        <?php if ($mobile) { ?>
-
-        <?php } else { ?>
-            <div class="row">&nbsp;</div>
-            <br/><br/>
-        <?php }?>
-
-        <div class="row">
+        <div class="row mobile-close-top">
             <div class="col-md-3">&nbsp;</div>
 
             <!-- ====================================== Anahtar Kelimeler ========================= -->
@@ -62,7 +65,7 @@
         <div class="row">
             <div class="col-md-3">&nbsp;</div>
             <div class="col-md-9 middle-content-wrapper">
-                <span class="icon-uniE633 sidebar-moon-icon-size middle-content-padding"></span>
+                <span class="icon-uniE91C sidebar-moon-icon-size middle-content-padding"></span>
                 <span class="align-to-moon-icon">ZİYARETÇİ YORUMLARI</span>
                 <hr class="margin-top-15px margin-bottom-30px">
                 <div class="row">
@@ -148,13 +151,13 @@
                         <div class="form-group col-md-6">
                             <div class="input-group">
                                 <div class="input-group-addon"><i class="fa fa-user fa-fw"></i></div>
-                                <input type="text" class="form-control align-input" id="exampleInputAmount" placeholder="Adı Soyadı" style="border-left:0 !important;">
+                                <input type="text" class="form-control align-input2" id="exampleInputAmount" placeholder="Adı Soyadı" style="border-left:0 !important;">
                             </div>
                         </div>
                         <div class="form-group pull-right col-md-6">
                             <div class="input-group">
                                 <div class="input-group-addon"><i class="fa fa-envelope-o fa-fw"></i></div>
-                                <input type="text" class="form-control align-input" id="exampleInputAmount" placeholder="E-Posta Adresi" style="border-left:0 !important;">
+                                <input type="text" class="form-control align-input2" id="exampleInputAmount" placeholder="E-Posta Adresi" style="border-left:0 !important;">
                             </div>
                         </div>
                         <div class="row">&nbsp;</div>
