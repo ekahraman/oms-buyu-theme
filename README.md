@@ -1,1 +1,2 @@
-# oms-buyu-theme
+# Magic & Psychic Template with Bootstrap 3
+ 
